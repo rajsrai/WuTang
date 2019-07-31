@@ -1,0 +1,11 @@
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\bin\Debug\netcoreapp2.1\WuTang.deps.json
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\bin\Debug\netcoreapp2.1\WuTang.runtimeconfig.json
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\bin\Debug\netcoreapp2.1\WuTang.runtimeconfig.dev.json
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\bin\Debug\netcoreapp2.1\WuTang.dll
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\bin\Debug\netcoreapp2.1\WuTang.pdb
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.csprojAssemblyReference.cache
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.csproj.CoreCompileInputs.cache
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.AssemblyInfoInputs.cache
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.AssemblyInfo.cs
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.dll
+C:\Users\rajvir.rai\source\repos\WuTang\WuTang\obj\Debug\netcoreapp2.1\WuTang.pdb
